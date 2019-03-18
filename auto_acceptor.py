@@ -5,6 +5,7 @@ import webbrowser
 import time
 
 new =2
+#this url is correct , no need to change it
 url='https://www.linkedin.com/mynetwork/invitation-manager/?filterCriteria=ALL'
 
 webbrowser.open(url, new=new)
