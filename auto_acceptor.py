@@ -14,7 +14,7 @@ i=0
 while(i<8):
     #the value of pixel below is as per the position of accept button on linkedIn as per mac 13inch model.
     #hope this wont change change or affect for any similar size model
-    #just in case it does then ping me for determ
+    #just in case it does not click at 'accept button' then ping me to know how to see the pixel position in your pc.
     pyautogui.click(882,416)
     time.sleep(1.1)
     i+=1
